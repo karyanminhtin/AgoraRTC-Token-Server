@@ -110,3 +110,5 @@ dist
 # for testing purpose
 *.txt
 *.mp4
+.mp3
+.mp5
