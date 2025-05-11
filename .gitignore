@@ -107,3 +107,5 @@ dist
 
 # render . yaml file 
 *.yaml
+# for testing purpose
+*.txt
